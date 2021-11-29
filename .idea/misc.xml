@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ivan.grgic/AndroidStudioProjects/fotoapp/app/src/main/res/drawable-anydpi/ic_action_name.xml" value="0.2703125" />
+        <entry key="..\:/Users/ivan.grgic/AndroidStudioProjects/fotoapp/app/src/main/res/drawable/iconphoto.xml" value="0.2703125" />
+        <entry key="..\:/Users/ivan.grgic/AndroidStudioProjects/fotoapp/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/ivan.grgic/AndroidStudioProjects/fotoapp/app/src/main/res/layout/editimage.xml" value="0.1" />
+        <entry key="..\:/Users/ivan.grgic/AndroidStudioProjects/fotoapp/app/src/main/res/layout/galleryactivity.xml" value="0.1" />
+        <entry key="..\:/Users/ivan.grgic/AndroidStudioProjects/fotoapp/app/src/main/res/layout/photo.xml" value="0.1" />
+        <entry key="..\:/Users/ivan.grgic/AndroidStudioProjects/fotoapp/app/src/main/res/xml/file_paths.xml" value="0.1506578947368421" />
+        <entry key="..\:/Users/ivan.grgic/Desktop/fotoapp/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/ivan.grgic/Desktop/fotoapp/app/src/main/res/layout/editimage.xml" value="0.1" />
+        <entry key="..\:/Users/ivan.grgic/Documents/GitHub/fotoapp/app/src/main/res/layout-land/singleitem.xml" value="0.1" />
+        <entry key="..\:/Users/ivan.grgic/Documents/GitHub/fotoapp/app/src/main/res/layout/galleryactivity.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/ivan.grgic/Documents/GitHub/fotoapp/app/src/main/res/layout/singleitem.xml" value="0.1234375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
